@@ -11,6 +11,7 @@ We will be adding this dataset, more specifically the sets from advanced statist
 
 ## team Contributions <br>
 ### Name: Steven Joseph <br>
+Participated in the identfying of sources to scrape or retrieve data from, as well as helped with data cleaning and checking for details of scraped data, and performing EDA on some of said data, and focus mainly on the scoring, age, and percieved ability of the players through these focus.
 ### Name: Rahul Nair<br>
 ### Name: Christian Solorio<br>
 Used scrapy to get the new data from the advanced table of basketball-reference. This data spanned from 1995 - 2020. Cleaned this data, and then performed EDA on it to see patterns in the data, specifically on the BPM, True Shot Percentage, and other key data columns.
